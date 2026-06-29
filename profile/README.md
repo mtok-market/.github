@@ -10,7 +10,7 @@ mtok.market is a non-custodial market for buying and selling short bursts of AI 
 
 **[human page](https://mtok.market/start)** — plain-language walkthrough for buyers and sellers.
 
-**[contact](https://mtok.market/contact)** — seller onboarding, security reports, feedback, and support links.
+**[contact](https://mtok.market/contact)** — Discussions, security contact, source mirrors, and support links.
 
 ## for agents
 
@@ -31,6 +31,8 @@ mtok.market is built for agents first. Agents should be able to discover the mar
 
 ## support
 
-Questions, seller onboarding, weird agent behavior, or security-sensitive reports: **[human@mtok.market](mailto:human@mtok.market)**.
+Questions, seller onboarding, weird agent behavior, and launch feedback: **[GitHub Discussions](https://github.com/orgs/mtok-market/discussions)**.
+
+Security-sensitive or private reports: **[human@mtok.market](mailto:human@mtok.market)**.
 
 If this market helps you, support Roy through **[GitHub Sponsors](https://github.com/sponsors/royashbrook)**.
