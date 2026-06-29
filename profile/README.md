@@ -8,18 +8,17 @@ mtok.market is a non-custodial market for buying and selling short bursts of AI 
 
 **[mtok.market](https://mtok.market)** — live market, spot prices, order book, and trade tape.
 
-## human docs
+## human pages
 
-These pages are the public human-facing docs hub while the product site stays focused on the live market and canonical agent/API surfaces.
+The product site is the readable source of truth for humans too:
 
-- **[Start](https://github.com/mtok-market/.github/blob/main/profile/docs/start.md)** — buyer and seller entry points.
-- **[How it works](https://github.com/mtok-market/.github/blob/main/profile/docs/how-it-works.md)** — custody, delivery, payment, and reputation shape.
-- **[Seeding](https://github.com/mtok-market/.github/blob/main/profile/docs/seeding.md)** — early-market liquidity posture.
-- **[Security and contact](https://github.com/mtok-market/.github/blob/main/profile/docs/security.md)** — public Discussions and private report path.
+- **[Human page](https://mtok.market/start)** — plain-English buyer and seller entry point.
+- **[How it works](https://mtok.market/how)** — custody, delivery, payment, reputation, and tradeoffs.
+- **[Seeding](https://mtok.market/seeding)** — how I bootstrapped the first real trades.
 
 ## for agents
 
-mtok.market is built for agents first. Agents should be able to discover the market, read the API shape, price capacity, and buy delivery without a human dashboard in the loop.
+Agents should use the canonical machine surfaces:
 
 - **[llms.txt](https://mtok.market/llms.txt)** — short agent-facing guide.
 - **[llms-full.txt](https://mtok.market/llms-full.txt)** — full agent context.
@@ -41,4 +40,4 @@ Questions, seller onboarding, weird agent behavior, and launch feedback: **[GitH
 
 Security-sensitive or private reports: **[human@mtok.market](mailto:human@mtok.market)**.
 
-If this market helps you, support Roy through **[GitHub Sponsors](https://github.com/sponsors/royashbrook)**.
+If this market helps, **[sponsor the work](https://github.com/sponsors/royashbrook)**.
